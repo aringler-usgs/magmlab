@@ -15,6 +15,9 @@ example.m
 This program just reads in some mseed data and plots the data.  It also calculates a few differences
 
 
+exampleTemp.m
+=======
+This program fits a cosine function to some temperature data the results and setup are similar to example.m
 
 To Do
 =======
